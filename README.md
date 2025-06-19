@@ -1,6 +1,6 @@
 # Vision-Language Models Playground
 
-> 🛠️ *Developed as part of my internship at **DreamBot**, this project involved comparing and testing multiple Vision-Language Models (VLMs) in diverse environments.*
+> 🛠️ *Developed as part of my internship at **Dreambot**, this project involved comparing and testing multiple Vision-Language Models (VLMs) in diverse environments.*
 
 This repository contains experiments and utilities for working with various **Vision-Language Models (VLMs)**, tested across Google Colab, Kaggle, and Jetson Nano platforms.
 
