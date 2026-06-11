@@ -6,7 +6,7 @@ This repository contains experiments and utilities for working with various **Vi
 
 ## 📁 File Structure
 
-* `4_vlms.py`:
+* `final_vlm.py`:
   Python script containing implementations and testing code for the following models:
 
   * **BLIP**
@@ -22,7 +22,7 @@ This repository contains experiments and utilities for working with various **Vi
   Folder containing sample test images used across different VLM models for inference and evaluation.
 
 * `VLM types.xlsx`:
-  Spreadsheet summarizing different VLM architectures, types, their sizes, capabilities, and intended use-cases.
+  Spreadsheet summarizing different VLM architectures, types, their sizes, capabilities, and intended use cases.
 
 * `README.md`:
   Project overview and guidance.
@@ -31,7 +31,7 @@ This repository contains experiments and utilities for working with various **Vi
 
 1. **Google Colab (for 4\_vlms.py)**:
 
-   * Upload `4_vlms.py` and the `test images` folder.
+   * Upload `final_vlm.py` and the `test images` folder.
    * Run the script block by block, ensuring the test images are available in the correct path.
 
 2. **Kaggle Notebook (for tinyvlm.ipynb)**:
